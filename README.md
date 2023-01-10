@@ -2,6 +2,8 @@
 
 Bot to make Smart_Calendar1874 regret [his post](https://www.reddit.com/r/AskReddit/comments/zdv5gv/how_would_you_get_a_small_cylinder_51in_length) even more.
 
+P. S. That's a joke.
+
 ## How to use
 Create `config.py` file like this:
 ```py
